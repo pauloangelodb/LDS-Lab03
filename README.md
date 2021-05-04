@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Laboratório de Desenvolvimento de Software - Projeto 2
+  Laboratório de Desenvolvimento de Software - Projeto 3
 </h3>
 
 <p align="center">Workspace do segundo modulo, da disciplina de Laboratório de Desenvolvimento De Software 🎓</p>
@@ -20,11 +20,11 @@
 
 ## :card_index_dividers: Índice de diretórios
 
-[0. Diretório de Imagens usadas no Markdown](https://github.com/guilhermejulio/LDS-Lab02/tree/main/.github)
+[0. Diretório de Imagens usadas no Markdown](https://github.com/lucasABLima/LDS-Lab03/tree/main/.github)
 
-[1. Diretório de Projeto ](https://github.com/guilhermejulio/LDS-Lab02/tree/main/projects)
+[1. Diretório de Projeto ](https://github.com/lucasABLima/LDS-Lab03/tree/main/projects)
 
-[2. Diretório de Implementação ](https://github.com/guilhermejulio/LDS-Lab02/tree/main/implementation)
+[2. Diretório de Implementação ](https://github.com/lucasABLima/LDS-Lab03/tree/main/implementation)
 
 ## 🚀 Descrição do Sistema
 
