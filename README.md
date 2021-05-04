@@ -9,8 +9,8 @@
 <p align="center">Workspace do segundo modulo, da disciplina de Laboratório de Desenvolvimento De Software 🎓</p>
 
 <p align="center">
-  <a href="https://github.com/guilhermejulio/LDS-Lab02/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/guilhermejulio/LDS-Lab02">
+  <a href="https://github.com/lucasABLima/LDS-Lab03/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasABLima/LDS-Lab03">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">	
