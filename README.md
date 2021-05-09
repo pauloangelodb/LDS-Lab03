@@ -6,7 +6,7 @@
   Laboratório de Desenvolvimento de Software - Projeto 3
 </h3>
 
-<p align="center">Workspace do segundo modulo, da disciplina de Laboratório de Desenvolvimento De Software 🎓</p>
+<p align="center">Workspace do terceiro módulo, da disciplina de Laboratório de Desenvolvimento De Software 🎓</p>
 
 <p align="center">
   <a href="https://github.com/lucasABLima/LDS-Lab03/commits/main">
